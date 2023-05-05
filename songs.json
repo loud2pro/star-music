@@ -1,1 +1,6 @@
-{}
+{
+  "this is a test that doesnt actually exist": {
+    "artist": "loud",
+    "addedBy": "loud"
+  }
+}
